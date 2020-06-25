@@ -1,0 +1,5 @@
+let s:assert = themis#helper('assert')
+
+Describe vimfzextras
+
+End
