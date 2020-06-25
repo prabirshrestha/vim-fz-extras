@@ -37,7 +37,7 @@ function! s:accept(basepath, result) abort
       normal! zz
     endif
   else
-    echom "not readable file " . expand(l:path)
+    echom 'not readable file ' . expand(l:path)
   endif
 endfunction
 
