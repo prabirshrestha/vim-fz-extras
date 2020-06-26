@@ -9,6 +9,13 @@ Plug 'prabirshrestah/vim-fz-extras'
 nmap <leader>s <Plug>(fz-extras-rg)
 ```
 
+## Commands
+
+| Command                | Notes                                            |
+|------------------------|--------------------------------------------------|
+| `FzColorscheme`        | Search and change colorscheme                    |
+| `FzRg`                 | Search using [ripgrep](https://github.com/BurntSushi/ripgrep) |
+
 ## License
 
 MIT
