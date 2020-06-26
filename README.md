@@ -13,8 +13,8 @@ nmap <leader>s <Plug>(fz-extras-rg)
 
 | Command                | Notes                                            |
 |------------------------|--------------------------------------------------|
-| `FzColorscheme`        | Search and change colorscheme                    |
-| `FzRg`                 | Search using [ripgrep](https://github.com/BurntSushi/ripgrep) |
+| `:FzColorscheme`        | Search and change colorscheme                    |
+| `:FzRg`                 | Search using [ripgrep](https://github.com/BurntSushi/ripgrep) |
 
 ## License
 
